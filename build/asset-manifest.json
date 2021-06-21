@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/JatinGehlot18/ReactNotes/static/js/main.e1c506e8.chunk.js",
+    "main.js.map": "/JatinGehlot18/ReactNotes/static/js/main.e1c506e8.chunk.js.map",
+    "runtime-main.js": "/JatinGehlot18/ReactNotes/static/js/runtime-main.9b4ca883.js",
+    "runtime-main.js.map": "/JatinGehlot18/ReactNotes/static/js/runtime-main.9b4ca883.js.map",
+    "static/js/2.54be8ece.chunk.js": "/JatinGehlot18/ReactNotes/static/js/2.54be8ece.chunk.js",
+    "static/js/2.54be8ece.chunk.js.map": "/JatinGehlot18/ReactNotes/static/js/2.54be8ece.chunk.js.map",
+    "index.html": "/JatinGehlot18/ReactNotes/index.html",
+    "precache-manifest.5ba65afc5de543a904f9660edc4a4a31.js": "/JatinGehlot18/ReactNotes/precache-manifest.5ba65afc5de543a904f9660edc4a4a31.js",
+    "service-worker.js": "/JatinGehlot18/ReactNotes/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b4ca883.js",
+    "static/js/2.54be8ece.chunk.js",
+    "static/js/main.e1c506e8.chunk.js"
+  ]
+}
